@@ -75,9 +75,9 @@ input {
 .vote-a {
     position: absolute;
     top: 250px;
-    left: 120px;
+    left: 280px;
     margin: 50px 0;
-    width: 40%;
+    width: 30%;
     height: 5vh;
     border: 1 px solid rgb(0, 0, 0);
     background-color: aquamarine;
@@ -87,8 +87,8 @@ input {
 .vote-b {
     position: absolute;
     top: 280px;
-    left: 120px;
-    width: 40%;
+    right: 280px;
+    width: 30%;
     height: 5vh;
     border: 1 px solid rgb(0, 0, 0);
     background-color: aquamarine;
