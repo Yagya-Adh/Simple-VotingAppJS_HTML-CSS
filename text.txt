@@ -1,0 +1,19 @@
+ 
+function add(x,y){
+    return x+y;
+}
+ 
+function sub(x,y){
+    return x-y;
+}
+ 
+function doMath(){
+
+    var n1=Number(document.getElementById('num1').value);
+    var n2=Number(document.getElementById('num2').value);
+
+    console.log(sum);
+    console.log(sub);
+}
+
+document.getElementById('calcButton').addEventListener('click',doMath)  
